@@ -1,0 +1,21 @@
+From 80ca362b02253b71b9f8f077ace18035401957c8 Mon Sep 17 00:00:00 2001
+From: balaji1306 <69802756+balaji1306@users.noreply.github.com>
+Date: Tue, 11 Jun 2024 16:30:46 +0530
+Subject: [PATCH] task 2
+
+---
+ python data/gg.py | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 python data/gg.py
+
+diff --git a/python data/gg.py b/python data/gg.py
+new file mode 100644
+index 0000000..45d5a27
+--- /dev/null
++++ b/python data/gg.py	
+@@ -0,0 +1 @@
++asg
+\ No newline at end of file
+-- 
+2.45.2.windows.1
+
